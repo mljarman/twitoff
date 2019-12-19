@@ -26,3 +26,18 @@ Tuesday December 17:
 3. What was the most challenging part of the work today, and why?
 
 * Along with others I am getting an SSL error from Basilica. I tried different fixes but nothing is working.
+
+
+Wednesday December 18
+
+1. What went well (in the context of working on the assignment) today?
+
+* Everything went well, app is working.
+
+2. What was particularly interesting or surprising about the topic(s) today?
+
+* It still seems like magic.
+
+3. What was the most challenging part of the work today, and why?
+
+* Understanding the iteration of all the pages. 
