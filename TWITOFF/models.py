@@ -24,8 +24,5 @@ class Tweet(DB.Model):
 
     embedding = DB.Column(DB.PickleType, nullable=False)
 
-
-
-
     def __repr__(self):
         return '<Tweet {}>'.format(self.text)
